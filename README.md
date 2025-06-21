@@ -8,10 +8,7 @@ Olá, meu nome é Gil sou desenvolvedor android.   Estou em busca de conheciment
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-castro-ribeiro-157838128/)
-
-
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538991768303/)
-
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilmail3120@gmail.com/)
 
 
